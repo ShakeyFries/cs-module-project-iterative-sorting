@@ -7,7 +7,11 @@
 ## Objectives
 
 - describe the differences between Linear and Binary Search algorithms
+- Answer: Linear search is an algorithm to find an element in a list by sequentially checking the elements of the list until finding the matching element. Binary search is an algorithm that finds the position of a target value within a sorted array. Thus, this is the main difference between linear search and binary search.
+
 - define what runtime complexity is, differentiate between various classifications and categorize the performance of an algorithm using Big O notation
+- Answer: An algorithm is said to take linear time, or O(n) time, if its time complexity is O(n). Informally, this means that the running time increases at most linearly with the size of the input. More precisely, this means that there is a constant c such that the running time is at most cn for every input of size n. For example, a procedure that adds up all elements of a list requires time proportional to the length of the list, if the adding time is constant, or, at least, bounded by a constant.
+
 - distinguish when to use, classify the performance, and implement code to conduct classic iterative sorting algorithms
 
 ## Introduction
