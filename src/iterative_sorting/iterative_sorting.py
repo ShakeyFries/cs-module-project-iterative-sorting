@@ -10,7 +10,7 @@ def selection_sort(arr):
         for j in range(i + 1, len(arr)):
             # if the smallest element is greater than i, the current index
             if arr[smallest_index] > arr[j]:
-                #Then the smallest index will equal j
+                # Then the smallest index will equal j
                 smallest_index = j
 
 
